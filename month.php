@@ -26,8 +26,7 @@ $(function() {
 </style>
 </head>
 <body>
-    <label for="startDate">Date time picker :</label>
-    <input name="startDate" id="startDate" value="" class="date-picker" />
+ 
 </body>
 </html>
 
